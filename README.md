@@ -1,8 +1,8 @@
-# 🦆 Ornitorrinco
+# Ornitorrinco
 
 Este é um pequeno projeto em HTML apresentando informações sobre o **ornitorrinco**, um dos animais mais curiosos da natureza.
 
-## 🌎 Sobre o projeto
+## Sobre o projeto
 
 A página mostra:
 
@@ -13,7 +13,7 @@ A página mostra:
 
 O objetivo do projeto foi praticar **estrutura básica de HTML**.
 
-## 🧠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 
